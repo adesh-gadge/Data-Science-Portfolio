@@ -15,7 +15,7 @@ Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks
 ### Kaggle Digit Recognizer competition
 The goal was to recognize digits 0 to 9 in handwriting images using K-NN, Naive Bayes Algorithm and Support Vector Machine. 
 
-***
+
 ## Regression Problems 
 ### Bejing Housing Price Analysis using MS Excel:
 Analyzed factors affecting the price of residential units in the Bejing Area using Statistical Analysis, Time-Series Analysis, Hypothesis Testing, Confidence Interval and Regressions using MS Excel.
