@@ -15,6 +15,7 @@ Solving a mystery in history using Machine Learning with R: who wrote the disput
 
 ### Airline Customer Satisfaction Survey Analysis
 Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. 
+[Presentation](https://drive.google.com/open?id=1qYqbTAuffkNYURIYOxL6MBpr-BeNBvKTeEKNCVXDSPw)
 
 ### Kaggle Digit Recognizer competition
 The goal was to recognize digits 0 to 9 in handwriting images using K-NN, Naive Bayes Algorithm and Support Vector Machine. 
