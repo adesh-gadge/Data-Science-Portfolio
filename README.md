@@ -45,6 +45,8 @@ upon students’ grades. Hence, we had three categories of student classes: High
 ## Big Data With PySpark 
 ***
 ## Posts 
+### Linked Lists
+### PCA
 ### model evaluation
 ### PySPark Machine Learning Library Basics
 ### Decision Tree
