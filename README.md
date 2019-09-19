@@ -14,8 +14,9 @@ Halloween Special competition. We have some characteristics of monsters and the 
 Solving a mystery in history using Machine Learning with R: who wrote the disputed essays in the Federalist Papers, Hamilton or Madison?
 
 ### Airline Customer Satisfaction Survey Analysis
-Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. 
-[Presentation](https://drive.google.com/open?id=1qYqbTAuffkNYURIYOxL6MBpr-BeNBvKTeEKNCVXDSPw)
+Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. <br/>
+[Presentation](https://drive.google.com/open?id=1qYqbTAuffkNYURIYOxL6MBpr-BeNBvKTeEKNCVXDSPw) <br/>
+[Report](https://docs.google.com/document/d/1CKX0-Bb7k5myGd9tENZMtcFtnhyHpTjzgeavdO23Abs/edit)
 
 ### Kaggle Digit Recognizer competition
 The goal was to recognize digits 0 to 9 in handwriting images using K-NN, Naive Bayes Algorithm and Support Vector Machine. 
