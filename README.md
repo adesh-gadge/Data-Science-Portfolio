@@ -26,7 +26,7 @@ The goal was to recognize digits 0 to 9 in handwriting images using K-NN, Naive 
 ## Regression Problems 
 ### Bejing Housing Price Analysis using MS Excel:
 Analyzed factors affecting the price of residential units in the Bejing Area using Statistical Analysis, Time-Series Analysis, Hypothesis Testing, Confidence Interval and Regressions using MS Excel. <\br>
-![Link] (https://github.com/adesh-gadge/Bejing-Housing-Price-Analysis-using-MS-Excel)
+![Link](https://github.com/adesh-gadge/Bejing-Housing-Price-Analysis-using-MS-Excel)
 ## Neural Networks 
 
 ### Student Performance Prediction
