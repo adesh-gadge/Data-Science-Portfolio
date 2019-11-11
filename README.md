@@ -11,7 +11,7 @@ This is a simple example of Logistic Regression Implementation using NumPy. It i
 Halloween Special competition. We have some characteristics of monsters and the goal is to predict the type of monsters: ghouls, goblins or ghosts.
 
 ### Cluster Analysis(K-means, HAC) and Decision Tree Induction algorithm
-[Link](https://github.com/adesh-gadge/Cluster-Analysis-K-means-HAC-and-Decision-Tree-Induction-algorithm)
+[Link](https://github.com/adesh-gadge/Cluster-Analysis-K-means-HAC-and-Decision-Tree-Induction-algorithm) <br/>
 Solving a mystery in history using Machine Learning with R: who wrote the disputed essays in the Federalist Papers, Hamilton or Madison?
 
 ### Airline Customer Satisfaction Survey Analysis
