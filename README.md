@@ -30,7 +30,7 @@ Analyzed factors affecting the price of residential units in the Bejing Area usi
 ## Neural Networks 
 
 ### Student Performance Prediction
-
+[Link](https://github.com/adesh-gadge/Student_Performance_Predictions)
 Predicting students academic performance using various factors such as class participation, resources visited, subject, attendance., etc
 There are three categories of student classes: High/H, Low/L and Medium/M based on academic performance.
 A kaggle dataset on student academic performance (available through https://www.kaggle.com/aljarah/xAPI-Edu-Data and also included as the attachment in this instruction) is gathered to identify the influential factors for students’ performance.
