@@ -30,18 +30,15 @@ Analyzed factors affecting the price of residential units in the Bejing Area usi
 ## Neural Networks 
 
 ### Student Performance Prediction
-A kaggle dataset on student academic performance (available through https://www.kaggle.com/aljarah/
-xAPI-Edu-Data and also included as the attachment in this instruction) is gathered to identify the influential
-factors for students’ performance. To predict the students’ performance, the collected data was organized into
-four kinds of features: demographic, academic background, parents’ participation on learning process and
-behavioral features. The demographic features consisted of demographic details of the students like gender,
-nationality, place of birth etc. The section, grades and semester details of the students were included under
-the academic features and behavioral features consisted of fields demonstrating students’ engagement with
-the learning management system like viewed announcements, interaction with discussion groups, resources etc.
-To analyze the students’ performance, the target “Class” attribute was discretized into orindal values based
-upon students’ grades. Hence, we had three categories of student classes: High/H, Low/L and Medium/M. 
+
+Predicting students academic performance using various factors such as class participation, resources visited, subject, attendance., etc
+There are three categories of student classes: High/H, Low/L and Medium/M based on academic performance.
+A kaggle dataset on student academic performance (available through https://www.kaggle.com/aljarah/xAPI-Edu-Data and also included as the attachment in this instruction) is gathered to identify the influential factors for students’ performance.
+ 
 
 ### Handwritten Alphabet Recognizer with Keras
+The data set comes from the Kaggle Digit Recognizer competition. The goal is to recognize digits 0 to 9 in
+handwriting images.I have utilized naïve Bayes, kNN and SVM algorithms. Tuned their parameters to get the best model (measured by cross validation) and compared which algorithms provide better model for this task.
 ***
 ## Big Data With PySpark 
 ***
