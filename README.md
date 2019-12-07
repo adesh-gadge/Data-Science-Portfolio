@@ -22,10 +22,13 @@ I designed a system that recommends movies based on user ratings and similarity 
 This is a simple example of Logistic Regression Implementation using NumPy. It is based on Andrew Ng's Lecture on Coursera.
 Halloween Special competition. We have some characteristics of monsters and the goal is to predict the type of monsters: ghouls, goblins or ghosts.
 
-### Cluster Analysis(K-means, HAC) and Decision Tree Induction algorithm for finding the author of the disputed essays
-[Link](https://github.com/adesh-gadge/Cluster-Analysis-K-means-HAC-and-Decision-Tree-Induction-algorithm) <br/>
+### [Cluster Analysis(K-means, HAC) and Decision Tree Induction algorithm for finding the author of the disputed essays](https://github.com/adesh-gadge/Cluster-Analysis-K-means-HAC-and-Decision-Tree-Induction-algorithm) <br/>
 Solving a mystery in history using Machine Learning with R: who wrote the disputed essays in the Federalist Papers, Hamilton or Madison?
 
+
+### Bullying detection
+
+### Hit or Miss?, Predicting if the song will be a popular or no!
 ### Airline Customer Satisfaction Survey Analysis
 Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. <br/>
 [Presentation](https://drive.google.com/open?id=1qYqbTAuffkNYURIYOxL6MBpr-BeNBvKTeEKNCVXDSPw) <br/>
@@ -34,11 +37,10 @@ Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks
 ### Kaggle Digit Recognizer competition
 The goal was to recognize digits 0 to 9 in handwriting images using K-NN, Naive Bayes Algorithm and Support Vector Machine. 
 
-### Student Performance Prediction
+### [Student Performance Prediction](https://github.com/adesh-gadge/Student_Performance_Predictions) </br> 
 Predicting students academic performance using various factors such as class participation, resources visited, subject, attendance., etc
 There are three categories of student classes: High/H, Low/L and Medium/M based on academic performance.
 A kaggle dataset on student academic performance (available through https://www.kaggle.com/aljarah/xAPI-Edu-Data and also included as the attachment in this instruction) is gathered to identify the influential factors for students’ performance.
-[Link](https://github.com/adesh-gadge/Student_Performance_Predictions) </br> 
 
 ### Handwritten Alphabet Recognizer with Keras
 The data set comes from the Kaggle Digit Recognizer competition. The goal is to recognize digits 0 to 9 in
