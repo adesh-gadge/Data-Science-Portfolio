@@ -2,7 +2,7 @@
 ***
 ## Big Data
 ### Movie Recommendation System with PySpark
-I designed a system that recommends movies based on user ratings and similarity between movie tags on the data of 20M ratings and 465K tag applications across 27K movies collected from activities on MovieLens. I performed ALS matrix factorization on the ratings data to estimate user ratings for unseen movies. Also, developed distance-based recommendation and recommendation-evaluation metric with the help of PCA to recommend movies based on previously liked movies. 
+I designed a system that recommends movies based on user ratings and similarity between movie tags on the data of 20M ratings and 465K tag applications across 27K movies collected from activities on MovieLens. I performed ALS matrix factorization on the ratings data to estimate user ratings for unseen movies. Also, developed distance-based recommendation and recommendation-evaluation metric with the help of PCA to recommend movies based on previously liked movies.  <br/>
 [Poster](https://drive.google.com/file/d/1ExudTF-k-Ac8wRsWkK-V6a7DnSDy3spG/view?usp=sharing )
 
 ### Implementation of Bloom-Filter for filtering spam users
