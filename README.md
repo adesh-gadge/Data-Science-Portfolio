@@ -7,7 +7,7 @@ I designed a system that recommends movies based on user ratings and similarity 
 
 ### Implementation of Bloom-Filter for filtering spam users
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.
-Bloom filter does not have False Negatives but does have False Positives due to collisions.
+Bloom filter does not have False Negatives but does have False Positives due to collisions. </br>
 Given data consists of two text files: (1) Username lists which are known to be spams & (2) General Username lists.
 Detect spam usernames in the (2) General usernames list </br>
 [Link](https://github.com/adesh-gadge/Bloom-Filter-Implimentation)
@@ -50,15 +50,17 @@ handwriting images.I have utilized naïve Bayes, kNN and SVM algorithms. Tuned t
 ***
 
 ## Regression Problems 
+### Solving Regression Problem for Blogfeedback ( Predicting number of comments expected on a blog)
+Data Source: https://archive.ics.uci.edu/ml/datasets/BlogFeedback
+Performed Least Square Regression, Ridge Regression and LASSO to predict the target variable </br>
+Tried to find what are the important features in the given data according to LASSO.
+[Link](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem)
+
 ### Bejing Housing Price Analysis using MS Excel:
 Analyzed factors affecting the price of residential units in the Bejing Area using Statistical Analysis, Time-Series Analysis, Hypothesis Testing, Confidence Interval and Regressions using MS Excel. </br>
 [Video Presentation Link](https://github.com/adesh-gadge/Bejing-Housing-Price-Analysis-using-MS-Excel)
 
-### Solving Regression Problem for Blogfeedback ( Predicting number of comments expected on a blog)
-Data Source: https://archive.ics.uci.edu/ml/datasets/BlogFeedback
-Performed Least Square Regression, Ridge Regression and LASSO to predict the target variable <br>
-Tried to find what are the important features in the given data according to LASSO.
-[Link](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem)
+
 
 
 ## Neural Networks 
