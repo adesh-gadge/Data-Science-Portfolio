@@ -9,7 +9,7 @@ I designed a system that recommends movies based on user ratings and similarity 
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.
 Bloom filter does not have False Negatives but does have False Positives due to collisions.
 Given data consists of two text files: (1) Username lists which are known to be spams & (2) General Username lists.
-Detect spam usernames in the (2) General usernames list
+Detect spam usernames in the (2) General usernames list </br>
 [Link](https://github.com/adesh-gadge/Bloom-Filter-Implimentation)
 
 
