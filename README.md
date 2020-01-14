@@ -3,15 +3,17 @@ Collection of Data Science Projects completed by me for academic, self learning 
 ***
 ## Big Data Projects
 ### Movie Recommendation System with PySpark
-I designed a system that recommends movies based on user ratings and similarity between movie tags on the data of 20M ratings and 465K tag applications across 27K movies collected from activities on MovieLens. I performed ALS matrix factorization on the ratings data to estimate user ratings for unseen movies. Also, developed distance-based recommendation and recommendation-evaluation metric with the help of PCA to recommend movies based on previously liked movies.  <br/>
-[Poster](https://drive.google.com/file/d/1ExudTF-k-Ac8wRsWkK-V6a7DnSDy3spG/view?usp=sharing )
+[Poster](https://drive.google.com/file/d/1ExudTF-k-Ac8wRsWkK-V6a7DnSDy3spG/view?usp=sharing) <br/>
+I designed a system that recommends movies based on user ratings and similarity between movie tags on the data of 20M ratings and 465K tag applications across 27K movies collected from activities on MovieLens. I performed ALS matrix factorization on the ratings data to estimate user ratings for unseen movies. Also, developed distance-based recommendation and recommendation-evaluation metric with the help of PCA to recommend movies based on previously liked movies.  
+
 
 ### Implementation of Bloom-Filter for filtering spam users
+[Link](https://github.com/adesh-gadge/Bloom-Filter-Implimentation) </br>
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.
 Bloom filter does not have False Negatives but does have False Positives due to collisions. </br>
 Given data consists of two text files: (1) Username lists which are known to be spams & (2) General Username lists. </br>
-Detect spam usernames in the (2) General usernames list </br>
-[Link](https://github.com/adesh-gadge/Bloom-Filter-Implimentation)
+Detect spam usernames in the (2) General usernames list 
+
 
 
 ### Implementation of the Flajolet-Martin (FM) algorithm to count the number of distinct quotes
@@ -27,10 +29,9 @@ Detect spam usernames in the (2) General usernames list </br>
 Solving a mystery in history using Machine Learning with R: who wrote the disputed essays in the Federalist Papers, Hamilton or Madison?
 
 ### Airline Customer Satisfaction Survey Analysis
-Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. <br/>
 [Presentation](https://drive.google.com/open?id=1qYqbTAuffkNYURIYOxL6MBpr-BeNBvKTeEKNCVXDSPw) <br/>
-[Report](https://docs.google.com/document/d/1CKX0-Bb7k5myGd9tENZMtcFtnhyHpTjzgeavdO23Abs/edit)
-
+[Report](https://docs.google.com/document/d/1CKX0-Bb7k5myGd9tENZMtcFtnhyHpTjzgeavdO23Abs/edit) <br/>
+Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. 
 
 ### Student Performance Prediction 
 [Link](https://github.com/adesh-gadge/Student_Performance_Predictions)</br> 
@@ -39,9 +40,10 @@ There are three categories of student classes: High/H, Low/L and Medium/M based 
 A kaggle dataset on student academic performance (available through https://www.kaggle.com/aljarah/xAPI-Edu-Data and also included as the attachment in this instruction) is gathered to identify the influential factors for students’ performance.
 
 ### Handwritten Alphabet Recognizer with Keras
+[Poster](https://github.com/adesh-gadge/Handwritten-Alphabet-Recognizer-/blob/master/Poster_IST707.pdf) <br/>
 The data set comes from the Kaggle Digit Recognizer competition. The goal is to recognize digits 0 to 9 in
 handwriting images.I have utilized naïve Bayes, kNN and SVM algorithms. Tuned their parameters to get the best model (measured by cross validation) and compared which algorithms provide better model for this task.
-[Poster](https://github.com/adesh-gadge/Handwritten-Alphabet-Recognizer-/blob/master/Poster_IST707.pdf)
+
 ***
 
 ## Regression Problems 
@@ -53,6 +55,6 @@ Tried to find what are the important features in the given data according to LAS
 
 
 ### Bejing Housing Price Analysis using MS Excel:
+[Video Presentation](https://github.com/adesh-gadge/Bejing-Housing-Price-Analysis-using-MS-Excel) <br/>
 Analyzed factors affecting the price of residential units in the Bejing Area using Statistical Analysis, Time-Series Analysis, Hypothesis Testing, Confidence Interval and Regressions using MS Excel. </br>
-[Video Presentation](https://github.com/adesh-gadge/Bejing-Housing-Price-Analysis-using-MS-Excel)
 
