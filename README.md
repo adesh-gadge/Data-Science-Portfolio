@@ -22,22 +22,26 @@ Detect spam usernames in the (2) General usernames list
 
 ***
 
-## Classification Problems
+## Classification and Clustering Problems
+
+# Hit or Miss?, Predicting if the song will be a popular or not!
+[Link]() <br/>
+Predicting if the song would be popular or not based on the audio features of the song. Song data was collected using Spotify API.
 
 ### Cluster Analysis(K-means, HAC) and Decision Tree Induction algorithm for finding the author of the disputed essays
 [Link](https://github.com/adesh-gadge/Cluster-Analysis-K-means-HAC-and-Decision-Tree-Induction-algorithm) <br/>
 Solving a mystery in history using Machine Learning with R: who wrote the disputed essays in the Federalist Papers, Hamilton or Madison?
-
-### Airline Customer Satisfaction Survey Analysis
-[Presentation](https://drive.google.com/open?id=1qYqbTAuffkNYURIYOxL6MBpr-BeNBvKTeEKNCVXDSPw) <br/>
-[Report](https://docs.google.com/document/d/1CKX0-Bb7k5myGd9tENZMtcFtnhyHpTjzgeavdO23Abs/edit) <br/>
-Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. 
 
 ### Student Performance Prediction 
 [Link](https://github.com/adesh-gadge/Student_Performance_Predictions)</br> 
 Predicting students academic performance using various factors such as class participation, resources visited, subject, attendance., etc
 There are three categories of student classes: High/H, Low/L and Medium/M based on academic performance. </br> 
 A kaggle dataset on student academic performance (available through https://www.kaggle.com/aljarah/xAPI-Edu-Data and also included as the attachment in this instruction) is gathered to identify the influential factors for students’ performance.
+
+### Airline Customer Satisfaction Survey Analysis
+[Presentation](https://drive.google.com/open?id=1qYqbTAuffkNYURIYOxL6MBpr-BeNBvKTeEKNCVXDSPw) <br/>
+[Report](https://docs.google.com/document/d/1CKX0-Bb7k5myGd9tENZMtcFtnhyHpTjzgeavdO23Abs/edit) <br/>
+Uncovering effects of features such as Age,Gender, Price Sensitivity,Food,Snacks or shopping on airports on the Custoemr Satisfaction on the flight journey using machine learning with R. 
 
 ### Handwritten Alphabet Recognizer with Keras
 [Poster](https://github.com/adesh-gadge/Handwritten-Alphabet-Recognizer-/blob/master/Poster_IST707.pdf) <br/>
@@ -53,8 +57,11 @@ Data Source: https://archive.ics.uci.edu/ml/datasets/BlogFeedback
 Performed Least Square Regression, Ridge Regression and LASSO to predict the target variable </br>
 Tried to find what are the important features in the given data according to LASSO.
 
-
 ### Bejing Housing Price Analysis using MS Excel:
 [Video Presentation](https://github.com/adesh-gadge/Bejing-Housing-Price-Analysis-using-MS-Excel) <br/>
 Analyzed factors affecting the price of residential units in the Bejing Area using Statistical Analysis, Time-Series Analysis, Hypothesis Testing, Confidence Interval and Regressions using MS Excel. </br>
+
+
+
+
 
