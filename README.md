@@ -1,4 +1,5 @@
 # Data-Science-Portfolio By Adesh Gadge
+Collection of Data Science Projects completed by me for academic, self learning and hobby purposes.
 ***
 ## Big Data Projects
 ### Movie Recommendation System with PySpark
