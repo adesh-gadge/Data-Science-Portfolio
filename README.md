@@ -8,7 +8,7 @@ I designed a system that recommends movies based on user ratings and similarity 
 
 
 ### Implementation of Bloom-Filter for filtering spam users
-[Link](https://github.com/adesh-gadge/Bloom-Filter-Implimentation) </br>
+[Project Link](https://github.com/adesh-gadge/Bloom-Filter-Implimentation) </br>
 A Bloom filter is a data structure designed to tell you, rapidly and memory-efficiently, whether an element is present in a set.
 Bloom filter does not have False Negatives but does have False Positives due to collisions. </br>
 Given data consists of two text files: (1) Username lists which are known to be spams & (2) General Username lists. </br>
@@ -25,7 +25,7 @@ Detect spam usernames in the (2) General usernames list
 ## Classification and Clustering Problems
 
 ### Hit or Miss?, Predicting if the song will be a popular or not!
-[Link](https://github.com/adesh-gadge/Hit-or-Miss-Song-Popularity-Prediction) <br/>
+[Project Link](https://github.com/adesh-gadge/Hit-or-Miss-Song-Popularity-Prediction) <br/>
 Predicting if the song would be popular or not based on the audio features of the song. Song data was collected using Spotify API.
 
 ### Cluster Analysis(K-means, HAC) and Decision Tree Induction algorithm for finding the author of the disputed essays
@@ -33,7 +33,7 @@ Predicting if the song would be popular or not based on the audio features of th
 Solving a mystery in history using Machine Learning with R: who wrote the disputed essays in the Federalist Papers, Hamilton or Madison?
 
 ### Student Performance Prediction 
-[Link](https://github.com/adesh-gadge/Student_Performance_Predictions)</br> 
+[Project Link](https://github.com/adesh-gadge/Student_Performance_Predictions)</br> 
 Predicting students academic performance using various factors such as class participation, resources visited, subject, attendance., etc
 There are three categories of student classes: High/H, Low/L and Medium/M based on academic performance. </br> 
 A kaggle dataset on student academic performance (available through https://www.kaggle.com/aljarah/xAPI-Edu-Data and also included as the attachment in this instruction) is gathered to identify the influential factors for students’ performance.
@@ -52,7 +52,7 @@ handwriting images.I have utilized naïve Bayes, kNN and SVM algorithms. Tuned t
 
 ## Regression Problems 
 ### Solving Regression Problem for Blogfeedback ( Predicting number of comments expected on a blog)
-[Link](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem) </br>
+[Project Link](https://github.com/adesh-gadge/BlogFeedback-Regression-Problem) </br>
 Data Source: https://archive.ics.uci.edu/ml/datasets/BlogFeedback
 Performed Least Square Regression, Ridge Regression and LASSO to predict the target variable </br>
 Tried to find what are the important features in the given data according to LASSO.
