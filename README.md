@@ -16,7 +16,7 @@ Detect spam usernames in the (2) General usernames list
 
 
 
-### Implementation of the Flajolet-Martin (FM) algorithm to count the number of distinct quotes
+-- ### Implementation of the Flajolet-Martin (FM) algorithm to count the number of distinct quotes
 
 
 
