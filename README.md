@@ -66,7 +66,7 @@ Analyzed factors affecting the price of residential units in the Bejing Area usi
 
 ## Articles
 ### [Interesting Tensor Operations with Pytorch](https://medium.com/swlh/interesting-tensor-operations-with-pytorch-6fad390e78a7)
-### [Linear Regression with PyTorch] (https://medium.com/@adesh.gadge/linear-regression-with-pytorch-faf7ebf36376?source=your_stories_page---------------------------)
+### [Linear Regression with PyTorch] (https://medium.com/@adesh.gadge/linear-regression-with-pytorch-faf7ebf36376)
 
 
 
