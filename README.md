@@ -71,4 +71,3 @@ Analyzed factors affecting the price of residential units in the Bejing Area usi
 
 
 
-
