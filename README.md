@@ -1,6 +1,7 @@
 # Data-Science-Portfolio By Adesh Gadge
 Collection of Data Science Projects completed by me for academic, self learning and hobby purposes.
 ***
+
 ## Big Data Projects
 ### Movie Recommendation System with PySpark
 [Poster](https://drive.google.com/file/d/1ExudTF-k-Ac8wRsWkK-V6a7DnSDy3spG/view?usp=sharing) <br/>
@@ -62,6 +63,10 @@ Tried to find what are the important features in the given data according to LAS
 ### Bejing Housing Price Analysis using MS Excel:
 [Video Presentation](https://github.com/adesh-gadge/Bejing-Housing-Price-Analysis-using-MS-Excel) <br/>
 Analyzed factors affecting the price of residential units in the Bejing Area using Statistical Analysis, Time-Series Analysis, Hypothesis Testing, Confidence Interval and Regressions using MS Excel. </br>
+
+## Articles
+### [Interesting Tensor Operations with Pytorch](https://medium.com/swlh/interesting-tensor-operations-with-pytorch-6fad390e78a7)
+### [Linear Regression with PyTorch] (https://medium.com/@adesh.gadge/linear-regression-with-pytorch-faf7ebf36376?source=your_stories_page---------------------------)
 
 
 
