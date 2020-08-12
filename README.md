@@ -28,7 +28,7 @@ Intereting Video animation of GAN improvement: https://youtu.be/WNCg5McmN74
 
 ### Human Protein Multi Label Image Classification
 [Project Link](https://jovian.ml/adesh-gadge/protein-advanced) </br>
-Classifying Human Protein using the microscopic images, where each image can have several classes present in it.gnii
+Classifying Human Protein using the microscopic images, where each image can have several classes present in it.
 
 ### Handwritten Alphabet Recognizer with Keras
 [Poster](https://github.com/adesh-gadge/Handwritten-Alphabet-Recognizer-/blob/master/Poster_IST707.pdf) <br/>
