@@ -35,6 +35,9 @@ Classifying Human Protein using the microscopic images, where each image can hav
 The data set comes from the Kaggle Digit Recognizer competition. The goal is to recognize digits 0 to 9 in
 handwriting images.I have utilized naïve Bayes, kNN and SVM algorithms. Tuned their parameters to get the best model (measured by cross validation) and compared which algorithms provide better model for this task.
 
+### Faulty, Failed Stages Detection using Autoencoder with Keras
+[Project Link](https://github.com/adesh-gadge/challenges/blob/master/data-science/data-science-exercise-solution.ipynb) </br>
+
 ***
 
 
