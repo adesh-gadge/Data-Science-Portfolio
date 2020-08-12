@@ -27,7 +27,7 @@ Trained two Neural Networks: a Generator and a Discriminator. The generator gene
 Intereting Video animation of GAN improvement: https://youtu.be/WNCg5McmN74
 
 ### Human Protein Multi Label Image Classification
-[Project Link]() </br>
+[Project Link](https://jovian.ml/adesh-gadge/protein-advanced) </br>
 Classifying Human Protein using the microscopic images, where each image can have several classes present in it.gnii
 
 ### Handwritten Alphabet Recognizer with Keras
@@ -37,6 +37,9 @@ handwriting images.I have utilized naïve Bayes, kNN and SVM algorithms. Tuned t
 
 ### Faulty, Failed Stages Detection using Autoencoder with Keras
 [Project Link](https://github.com/adesh-gadge/challenges/blob/master/data-science/data-science-exercise-solution.ipynb) </br>
+Detected stages of machine using vibration sensor readings from the subset of NASA Acoustics and Vibration Database with Autoencoder for anomaly detection and Naïve Bayes classifier on windowed signal
+Performed data preprocessing: erroneous(outlier) sensor readings removal, standardization, reshaping
+Detected faulty stage about 47 days prior failure occurs giving ample time for engineers for quality check
 
 ***
 
